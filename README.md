@@ -7,7 +7,7 @@ No site foi utilizado tags de estruturação de texto, tags de formulário, tags
 
 Também foi utilizado algumas tags de estilização do texto.
 
-CLique aqui para ver o site: https://pauloo0611.github.io/Site_institucional_HTML/
+[CLique aqui](https://pauloo0611.github.io/Site_institucional_HTML/) para ver o site! 
 
 ![image](https://user-images.githubusercontent.com/102112051/207601625-3894ec7e-d44c-4146-9e81-ac4c957362a5.png)
 
